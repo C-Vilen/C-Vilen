@@ -1,6 +1,6 @@
 ## About Me 🙋‍
 
-Hi there! I'm a software developer with a passion for building applications that are both functional and user-friendly. 💻 I have experience with Java and JavaScript, and I'm always looking to learn new skills and stay up-to-date with the latest developments in the tech industry. 🚀
+Hi there! I'm a software developer with a passion for building applications that are both functional and user-friendly. 💻 I have experience with Java, C# & TypeScript, and I'm always looking to learn new skills and stay up-to-date with the latest developments in the tech industry. 🚀
 
 ## Projects (so-far...)🏆
 
